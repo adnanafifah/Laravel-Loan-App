@@ -10,12 +10,15 @@ The system user must be able to:
 5. On "Edit" screen, the user must be able to upload document
 6. “Delete” existing loan records
 
-### Installation
+### Installation & Run
 
 This project requires Composer and Laravel to be installed on machine.
 
 ```sh
-$ php composer.phar install
+$ git clone https://github.com/adnanafifah/Laravel-Loan-App.git LoanApp
+$ cd LoanApp
+$ composer install
+$ php artisan serve
 ```
 
 ### Database
