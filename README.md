@@ -15,6 +15,7 @@ The system user must be able to:
 This project requires Composer and Laravel to be installed on machine.
 
 ```sh
+$ git clone https://github.com/adnanafifah/Laravel-Loan-App.git
 $ php composer.phar install
 ```
 
